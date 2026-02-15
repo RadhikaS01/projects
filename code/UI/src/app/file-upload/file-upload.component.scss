@@ -1,0 +1,68 @@
+/* filepath: c:\Users\Bimlesh\Desktop\Hackathon_AI\radg-digital-dynamos-ui\src\app\file-upload\file-upload.component.scss */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: left;
+    color: black;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+    color: #946e3a;
+  }
+  
+  input[type="file"] {
+    display: block;
+    width: 20%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 8px 5px 7px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+    cursor: pointer;
+  }
+  
+  button {
+    display: block;
+    width: 10%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  app-loading-spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+  }
+
+   .button-container {
+    display: flex;
+    width: 20%;
+    gap: 10px; /* Add space between buttons */
+    margin-top: 10px; /* Add some margin to the top */
+  }
+  
+  .button-container button {
+    flex: 1; /* Make buttons take equal space */
+  }

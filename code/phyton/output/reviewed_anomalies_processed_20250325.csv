@@ -1,0 +1,9 @@
+As of Date,Company,Account,AU,Currency,Primary Account,Secondary Account,GL Balance,IHub Balance,Balance Difference,Match Status,Anomaly Explanation,Confirmed Anomaly,Corrected GL Balance,Corrected IHub Balance,Correction Notes
+31-05-2024,0,1619288,5701,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,100000,10000,90000,Break,Pattern deviation detected,Pending Review,,,
+31-05-2024,2,1619205,4929,EUR,ALL OTHER LOANS,PRINCIPAL,100000,80000,-10000,Break,GL Balance jumped from 60000.00 to 100000.00,Pending Review,,,
+30-06-2024,0,1619288,5701,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,100000,10000,90000,Break,Pattern deviation detected,Pending Review,,,
+30-06-2024,2,1619205,4929,EUR,ALL OTHER LOANS,PRINCIPAL,80000,90000,-10000,Break,Pattern deviation detected,Pending Review,,,
+31-07-2024,0,1619288,5701,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,100000,10000,90000,Break,Pattern deviation detected,Pending Review,,,
+31-07-2024,2,1619205,4929,EUR,ALL OTHER LOANS,PRINCIPAL,80000,90000,-10000,Break,Pattern deviation detected,Yes,,80000,update Ihub balance from 90000 to 80000
+30-08-2024,0,1619288,5701,USD,ALL OTHER LOANS,DEFERRED ORIGINATION FEES,100000,10000,90000,Break,Pattern deviation detected,Pending Review,,,
+30-08-2024,2,1619205,4929,EUR,ALL OTHER LOANS,PRINCIPAL,70000,80000,-10000,Break,Pattern deviation detected,Pending Review,,,
